@@ -1,0 +1,1 @@
+C:\Users\ignas\virtualenvs\map\Scripts\activate
